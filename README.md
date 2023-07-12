@@ -4,13 +4,23 @@ Scoping and prioritising this work is likely to involve quite a bit of discussio
 
 ## Background
 
-TBC - add details on digitisation project and graphic showing how the data fit together.
+### Digitisation project
+
+TBC
+
+### How the data fit together
+
+<img src="resources/kg2.png" alt="Concept map" width="700">
 
 ## Timeline
 
 - July 2023 First student placement (8 weeks)
 - August 2023 [Imageomics workshop](https://imageomics.osu.edu/image-datapalooza-2023)
 - September 2023 Second student placement (12 months)
+
+## Sub-projects
+
+TBC
 
 ## Contributing
 
