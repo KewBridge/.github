@@ -10,7 +10,7 @@ TBC
 
 ### How the data fit together
 
-<img src="resources/kg2.png" alt="Concept map" width="700">
+<img src="../resources/kg2.png" alt="Concept map" width="700">
 
 ## Timeline
 
