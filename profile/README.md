@@ -14,9 +14,9 @@ TBC
 
 ## Timeline
 
-- July 2023 First student placement (8 weeks)
+- July 2023 First student placement (Pausali Sengupta, 8 weeks)
 - August 2023 [Imageomics workshop](https://imageomics.osu.edu/image-datapalooza-2023)
-- September 2023 Second student placement (12 months)
+- September 2023 Second student placement (Eren Karabey, 12 months)
 
 ## Sub-projects
 
