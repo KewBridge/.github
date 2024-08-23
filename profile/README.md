@@ -14,13 +14,14 @@ TBC
 
 ## Timeline
 
-- July 2023 First student placement (Pausali Sengupta, 8 weeks)
+- July 2023 First student placement ([Pausali Sengupta](https://github.com/code-with-pausali), 8 weeks)
 - August 2023 [Imageomics workshop](https://imageomics.osu.edu/image-datapalooza-2023)
-- September 2023 Second student placement (Eren Karabey, 12 months)
+- September 2023 Second student placement ([Eren Karabey](https://github.com/ErenKarabey), 12 months)
 
 ## Sub-projects
 
-TBC
+- [specimens2illustrations](https://github.com/kewBridge/specimens2illustrations) - extract illustrations and captions from monographs, process captions to find referenced specimen, segement composite illustration image to separate components  
+- [gbifocc-datasette](https://github.com/KewBridge/gbifocc-datasette) - a datasette instance populated with a GBIF occurrence download and configured to act as a reconciliation endpoint, so that collector name and number can be translated into the associated GBIF occurrence 
 
 ## Contributing
 
